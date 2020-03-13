@@ -1,0 +1,16 @@
+ .no-print {
+    display: none;
+}
+ #effect {
+     display: block !important;
+     font-size: 22px;
+ }
+#printData {
+    display: block !important;
+}
+ .jumbotron {
+     background: none!important;
+ }
+ .modal-backdrop.fade {
+     opacity: 0!important;
+ }

@@ -1,0 +1,2 @@
+# Raport
+ Generator wykresow

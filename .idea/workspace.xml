@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efa544db-1bab-41fb-9b93-3c1fd7920bcd" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-337">
+              <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#canvas#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/print.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/charLine.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/globalVariables.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/setColumnAndFilter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/setAndSortColumn.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/setFiltration.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="95" column="18" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/table.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/dragAndDrop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>userId</find>
+      <find>readForm</find>
+      <find>ine</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/aplication.js" />
+        <option value="$PROJECT_DIR$/dagAndDrop.html" />
+        <option value="$PROJECT_DIR$/dAndDrop.js" />
+        <option value="$PROJECT_DIR$/dragAndDrop2.js" />
+        <option value="$PROJECT_DIR$/dragAndDrop3.css" />
+        <option value="$PROJECT_DIR$/dragAndDrop3.js" />
+        <option value="$PROJECT_DIR$/dragAndDrop3.html" />
+        <option value="$PROJECT_DIR$/wykres.html" />
+        <option value="$PROJECT_DIR$/wykresGoogle.html" />
+        <option value="$PROJECT_DIR$/setColumnSort.js" />
+        <option value="$PROJECT_DIR$/picture/charPolarArea.js" />
+        <option value="$PROJECT_DIR$/doswiadczenie.html" />
+        <option value="$PROJECT_DIR$/dragAndDrop.html" />
+        <option value="$PROJECT_DIR$/filtration.js" />
+        <option value="$PROJECT_DIR$/formLineChar.html" />
+        <option value="$PROJECT_DIR$/przyklad2.html" />
+        <option value="$PROJECT_DIR$/przyklad2.js" />
+        <option value="$PROJECT_DIR$/printWindow.js" />
+        <option value="$PROJECT_DIR$/charLine.js" />
+        <option value="$PROJECT_DIR$/charBar.js" />
+        <option value="$PROJECT_DIR$/charBarVer.js" />
+        <option value="$PROJECT_DIR$/charPie.js" />
+        <option value="$PROJECT_DIR$/charPolarArea.js" />
+        <option value="$PROJECT_DIR$/charDoughnut.js" />
+        <option value="$PROJECT_DIR$/inTable.js" />
+        <option value="$PROJECT_DIR$/printWindow.html" />
+        <option value="$PROJECT_DIR$/plot.js" />
+        <option value="$PROJECT_DIR$/print.css" />
+        <option value="$PROJECT_DIR$/printReport.js" />
+        <option value="$PROJECT_DIR$/dragAndDrop.js" />
+        <option value="$PROJECT_DIR$/dragAndDrop.css" />
+        <option value="$PROJECT_DIR$/setAndSortColumn.js" />
+        <option value="$PROJECT_DIR$/setFiltration.js" />
+        <option value="$PROJECT_DIR$/setColumnAndFilter.js" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/table.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/globalVariables.js" />
+        <option value="$PROJECT_DIR$/js/charLine.js" />
+        <option value="$PROJECT_DIR$/css/print.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="79" />
+    <option name="y" value="18" />
+    <option name="width" value="1129" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pDyplom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pDyplom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pDyplom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pDyplom" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-app" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tomek\WebstormProjects\pDyplom\js" />
+      <recent name="C:\Users\Tomek\WebstormProjects\pDyplom\picture" />
+      <recent name="C:\Users\Tomek\WebstormProjects\pDyplom\css" />
+      <recent name="C:\Users\Tomek\WebstormProjects\pDyplom" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efa544db-1bab-41fb-9b93-3c1fd7920bcd" name="Default Changelist" comment="" />
+      <created>1567595623822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567595623822</updated>
+      <workItem from="1567595626598" duration="5180000" />
+      <workItem from="1567762857563" duration="13458000" />
+      <workItem from="1567852827263" duration="19308000" />
+      <workItem from="1567957740394" duration="2897000" />
+      <workItem from="1568022287919" duration="3624000" />
+      <workItem from="1568198826035" duration="5744000" />
+      <workItem from="1568281956647" duration="4373000" />
+      <workItem from="1568374173139" duration="8738000" />
+      <workItem from="1568463780145" duration="13746000" />
+      <workItem from="1570097768063" duration="1759000" />
+      <workItem from="1570196801333" duration="6144000" />
+      <workItem from="1570287592765" duration="4376000" />
+      <workItem from="1570713782077" duration="24799000" />
+      <workItem from="1570789843883" duration="975000" />
+      <workItem from="1570910675553" duration="1018000" />
+      <workItem from="1570947874487" duration="642000" />
+      <workItem from="1570957962001" duration="22946000" />
+      <workItem from="1571581455204" duration="8086000" />
+      <workItem from="1571743608591" duration="7831000" />
+      <workItem from="1571999217307" duration="10868000" />
+      <workItem from="1572078629257" duration="2540000" />
+      <workItem from="1572112962476" duration="1264000" />
+      <workItem from="1572256106138" duration="4839000" />
+      <workItem from="1572339520492" duration="18593000" />
+      <workItem from="1573162037952" duration="1389000" />
+      <workItem from="1573223504131" duration="2442000" />
+      <workItem from="1574593566050" duration="879000" />
+      <workItem from="1574623200731" duration="3683000" />
+      <workItem from="1575638464944" duration="168000" />
+      <workItem from="1575639898962" duration="23000" />
+      <workItem from="1575747321369" duration="2206000" />
+      <workItem from="1575806942116" duration="11373000" />
+      <workItem from="1575893961878" duration="16961000" />
+      <workItem from="1575973552602" duration="12475000" />
+      <workItem from="1576153424419" duration="4386000" />
+      <workItem from="1576231774294" duration="15833000" />
+      <workItem from="1576501146095" duration="605000" />
+      <workItem from="1576777855988" duration="840000" />
+      <workItem from="1576839197504" duration="10866000" />
+      <workItem from="1576933889829" duration="8729000" />
+      <workItem from="1577008812199" duration="18508000" />
+      <workItem from="1577624372322" duration="678000" />
+      <workItem from="1578218788158" duration="9069000" />
+      <workItem from="1578313520293" duration="1875000" />
+      <workItem from="1578593749152" duration="1201000" />
+      <workItem from="1578669831053" duration="5188000" />
+      <workItem from="1579001300780" duration="19666000" />
+      <workItem from="1579264206801" duration="16687000" />
+      <workItem from="1579351059525" duration="14424000" />
+      <workItem from="1579434514909" duration="13228000" />
+      <workItem from="1579609463110" duration="8912000" />
+      <workItem from="1579783728238" duration="628000" />
+      <workItem from="1579883643254" duration="7778000" />
+      <workItem from="1580024482412" duration="319000" />
+      <workItem from="1580228355844" duration="2621000" />
+      <workItem from="1580297702087" duration="16294000" />
+      <workItem from="1580640729767" duration="17106000" />
+      <workItem from="1580658379629" duration="2006000" />
+      <workItem from="1580987332373" duration="620000" />
+      <workItem from="1581174968837" duration="700000" />
+      <workItem from="1581765131466" duration="598000" />
+      <workItem from="1581856442450" duration="1270000" />
+      <workItem from="1582116256226" duration="1012000" />
+      <workItem from="1582226989454" duration="1157000" />
+      <workItem from="1582362953531" duration="1206000" />
+      <workItem from="1582626906599" duration="599000" />
+      <workItem from="1582627603902" duration="10000" />
+      <workItem from="1582627646779" duration="69000" />
+      <workItem from="1582628842091" duration="157000" />
+      <workItem from="1583587747339" duration="1261000" />
+      <workItem from="1583676972837" duration="1521000" />
+      <workItem from="1584116502186" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="453280000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="79" y="18" width="1129" height="725" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18515123" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3840246" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32879046" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dragAndDrop2.js" />
+    <entry file="file://$PROJECT_DIR$/aplication.js" />
+    <entry file="file://$PROJECT_DIR$/picture/charLine.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picture/charBar.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picture/charDoughnut.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picture/charPie.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap4/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picture/charPolarArea.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/charBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" column="74" lean-forward="true" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#h5#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/charBarVer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#h5#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/charPie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="74" lean-forward="true" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#h5#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/charPolarArea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="74" lean-forward="true" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#h5#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/charDoughnut.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="27" column="98" selection-start-line="27" selection-start-column="98" selection-end-line="27" selection-end-column="98" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#h5#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/cf_f/js/main-tt.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do.html" />
+    <entry file="file://$PROJECT_DIR$/js/plot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/printWindow.html" />
+    <entry file="file://$PROJECT_DIR$/printWindow.js" />
+    <entry file="file://$PROJECT_DIR$/wykresGoogle.html" />
+    <entry file="file://$PROJECT_DIR$/wykres.html" />
+    <entry file="file://$PROJECT_DIR$/dragAndDrop.css" />
+    <entry file="file://$PROJECT_DIR$/przyklad2.js" />
+    <entry file="file://$PROJECT_DIR$/przyklad2.html" />
+    <entry file="file://$PROJECT_DIR$/js/inTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/printReport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formLineChar.html" />
+    <entry file="file://$PROJECT_DIR$/js/charLine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/setAndSortColumn.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/setFiltration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="18" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dragAndDrop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-337">
+          <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#canvas#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/setColumnAndFilter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/globalVariables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
