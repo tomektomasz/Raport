@@ -38,7 +38,7 @@ function readFile(uploader) {
 
         //var effect=transform2(tekst);    //przekształcenie tekstu na obiekt-tabele
         //console.log( "obiekt: ", effect);
-
+        retTypeChar();
         transform(tekst);
         console.log("kolumny: ",arrayColumn,"\n"," wartości: ",arrayRow);
         setColumnAndFilter();
