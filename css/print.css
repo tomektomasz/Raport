@@ -8,9 +8,6 @@
 #printData {
     display: block !important;
 }
- .jumbotron {
-     background: none!important;
- }
- .modal-backdrop.fade {
-     opacity: 0!important;
- }
+body {
+    background: white;
+}
