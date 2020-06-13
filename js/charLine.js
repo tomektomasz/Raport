@@ -58,7 +58,6 @@ function drawCharLine(canvasLine,arrayValue,arrayName,arrayColor,arrayFill,label
             borderColor: arrayColor[i],
             fill:arrayFill[i],
             backgroundColor: arrayColor[i]+"50",
-            //lineTension: 0
             borderWidth: 2
         }
     }
@@ -80,7 +79,6 @@ function drawCharLine(canvasLine,arrayValue,arrayName,arrayColor,arrayFill,label
             }],
             yAxes: [{
                 display:true,
-               // type: 'logarithmic'
             }]
         }
     }

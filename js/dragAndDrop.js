@@ -38,7 +38,7 @@ function readFile(uploader) {
 
         //var effect=transform2(tekst);    //przekształcenie tekstu na obiekt-tabele
         //console.log( "obiekt: ", effect);
-
+        retTypeChar();
         transform(tekst);
         console.log("kolumny: ",arrayColumn,"\n"," wartości: ",arrayRow);
         setColumnAndFilter();
@@ -58,7 +58,8 @@ function readFile(uploader) {
 //przekształca na dwa obiekty: zbiór tytułów kolumn (= arrayColumn[]) i zbiór wartości tabeli w wierszach (= arrayRow[])
 function transform(tx){
     let fullArray=tx.split("\n");
-
+    arrayRow=[];
+    arrayColumn=[];
     makeArrayColumn(fullArray[0].split(","));
     makeArrayRow(fullArray);
 
@@ -80,8 +81,8 @@ function makeArrayColumn(aStrName) {
             arrayColumn[item].name = aStrName[item];
             arrayColumn[item].id = parseInt(item);
         } else {
-            if(item=0) arrayColumn[item].name = "";
-            else arrayColumn[item].id = "bezNazwy" + item;
+            if(item==0) arrayColumn[item].name = "";
+            else arrayColumn[item].name = "Seria-" + item;
         }
     }
 
@@ -109,7 +110,6 @@ function makeArrayRow(fArray) {
                 }
                 else {
                     arrayRow[n].arrayCell[j] = autNan(parseFloat(arrayStrValue[j]));
-                    //arrayColumn[j].typeText=false;
                 }
             }
             n++;
